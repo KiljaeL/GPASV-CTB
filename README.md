@@ -1,7 +1,7 @@
 # Generalized Priority-Aware Shapley Value
 
 This repository provides the implementation used to reproduce the numerical
-results in **Generalized Priority-Aware Shapley Value (GPASV)**.
+results in **Generalized Priority-Aware Shapley Value (GPASV)**, accepted at ICML 2026 Workshop on Combining Theory and Benchmarks.
 
 ## Requirements
 
